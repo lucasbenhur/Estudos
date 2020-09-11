@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaDoCirculo", "AreaDoCirc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SomaSimples", "SomaSimples\SomaSimples.csproj", "{9A93706A-4F35-4B9F-AF3F-7E79434E4B8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdutoSimples", "ProdutoSimples\ProdutoSimples.csproj", "{8495ACF5-ECFB-4BCB-AC26-A4846CE82025}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProdutoSimples", "ProdutoSimples\ProdutoSimples.csproj", "{8495ACF5-ECFB-4BCB-AC26-A4846CE82025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media1", "Media1\Media1.csproj", "{91A8CFE2-DCDA-460E-B074-A2B622875A72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{8495ACF5-ECFB-4BCB-AC26-A4846CE82025}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8495ACF5-ECFB-4BCB-AC26-A4846CE82025}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8495ACF5-ECFB-4BCB-AC26-A4846CE82025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A8CFE2-DCDA-460E-B074-A2B622875A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A8CFE2-DCDA-460E-B074-A2B622875A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A8CFE2-DCDA-460E-B074-A2B622875A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A8CFE2-DCDA-460E-B074-A2B622875A72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
