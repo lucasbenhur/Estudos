@@ -13,15 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SomaSimples", "SomaSimples\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProdutoSimples", "ProdutoSimples\ProdutoSimples.csproj", "{8495ACF5-ECFB-4BCB-AC26-A4846CE82025}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media1", "Media1\Media1.csproj", "{91A8CFE2-DCDA-460E-B074-A2B622875A72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media1", "Media1\Media1.csproj", "{91A8CFE2-DCDA-460E-B074-A2B622875A72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media2", "Media2\Media2.csproj", "{30348FEE-BC86-4F4B-B27A-3C77EDEA2600}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media2", "Media2\Media2.csproj", "{30348FEE-BC86-4F4B-B27A-3C77EDEA2600}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diferenca", "Diferenca\Diferenca.csproj", "{59E7FC1D-65B2-46D5-AA12-A163850E9C8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diferenca", "Diferenca\Diferenca.csproj", "{59E7FC1D-65B2-46D5-AA12-A163850E9C8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salario", "Salario\Salario.csproj", "{45393047-6F65-4119-B053-997DE4A48636}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salario", "Salario\Salario.csproj", "{45393047-6F65-4119-B053-997DE4A48636}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalarioComBonus", "SalarioComBonus\SalarioComBonus.csproj", "{9C2CD77E-5337-4F7E-B50E-7E2C40D8F01F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalarioComBonus", "SalarioComBonus\SalarioComBonus.csproj", "{9C2CD77E-5337-4F7E-B50E-7E2C40D8F01F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoSimples", "CalculoSimples\CalculoSimples.csproj", "{A50AB066-A0D1-42C1-8829-77503D6E5DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esfera", "Esfera\Esfera.csproj", "{3FF63C9F-1C68-4EFB-A696-544906984AAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{9C2CD77E-5337-4F7E-B50E-7E2C40D8F01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C2CD77E-5337-4F7E-B50E-7E2C40D8F01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C2CD77E-5337-4F7E-B50E-7E2C40D8F01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50AB066-A0D1-42C1-8829-77503D6E5DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50AB066-A0D1-42C1-8829-77503D6E5DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50AB066-A0D1-42C1-8829-77503D6E5DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50AB066-A0D1-42C1-8829-77503D6E5DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF63C9F-1C68-4EFB-A696-544906984AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF63C9F-1C68-4EFB-A696-544906984AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF63C9F-1C68-4EFB-A696-544906984AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF63C9F-1C68-4EFB-A696-544906984AAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
