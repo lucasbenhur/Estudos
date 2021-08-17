@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salario", "Salario\Salario.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalarioComBonus", "SalarioComBonus\SalarioComBonus.csproj", "{9C2CD77E-5337-4F7E-B50E-7E2C40D8F01F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoSimples", "CalculoSimples\CalculoSimples.csproj", "{A50AB066-A0D1-42C1-8829-77503D6E5DD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoSimples", "CalculoSimples\CalculoSimples.csproj", "{A50AB066-A0D1-42C1-8829-77503D6E5DD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esfera", "Esfera\Esfera.csproj", "{3FF63C9F-1C68-4EFB-A696-544906984AAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Esfera", "Esfera\Esfera.csproj", "{3FF63C9F-1C68-4EFB-A696-544906984AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{43E66447-C3C7-4C2C-BEEB-F293BF4F02D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{3FF63C9F-1C68-4EFB-A696-544906984AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FF63C9F-1C68-4EFB-A696-544906984AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FF63C9F-1C68-4EFB-A696-544906984AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E66447-C3C7-4C2C-BEEB-F293BF4F02D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E66447-C3C7-4C2C-BEEB-F293BF4F02D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E66447-C3C7-4C2C-BEEB-F293BF4F02D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E66447-C3C7-4C2C-BEEB-F293BF4F02D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
