@@ -35,13 +35,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1012 - Area", "1012 - Area\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1014 - Consumo", "1014 - Consumo\1014 - Consumo.csproj", "{C2BFE712-2B55-48A1-972D-632749A698B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1015 - Distancia Entre Dois Pontos", "1015 - Distancia Entre Dois Pontos\1015 - Distancia Entre Dois Pontos.csproj", "{ADAC2644-BC38-4027-8B95-175BD69EBC7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1015 - Distancia Entre Dois Pontos", "1015 - Distancia Entre Dois Pontos\1015 - Distancia Entre Dois Pontos.csproj", "{ADAC2644-BC38-4027-8B95-175BD69EBC7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1016 - Distância", "1016 - Distância\1016 - Distância.csproj", "{2446EB36-2815-4F12-BC94-C592D85B384D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1016 - Distância", "1016 - Distância\1016 - Distância.csproj", "{2446EB36-2815-4F12-BC94-C592D85B384D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1017 - Gasto de Combustível", "1017 - Gasto de Combustível\1017 - Gasto de Combustível.csproj", "{4A7E7619-2DA2-485A-A783-BC089A10A60E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1017 - Gasto de Combustível", "1017 - Gasto de Combustível\1017 - Gasto de Combustível.csproj", "{4A7E7619-2DA2-485A-A783-BC089A10A60E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1018 - Cedulas", "1018 - Cedulas\1018 - Cedulas.csproj", "{51D9C40C-107A-484F-BEFA-A1879A29A271}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1018 - Cedulas", "1018 - Cedulas\1018 - Cedulas.csproj", "{51D9C40C-107A-484F-BEFA-A1879A29A271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1019 - Conversao de Tempo", "1019 - Conversao de Tempo\1019 - Conversao de Tempo.csproj", "{01D82D0F-E19A-4421-8475-36B41C2BBC5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1020 - Idade em Dias", "1020 - Idade em Dias\1020 - Idade em Dias.csproj", "{B7EEB480-3673-4E58-B8C8-6506DA09B734}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -125,6 +129,14 @@ Global
 		{51D9C40C-107A-484F-BEFA-A1879A29A271}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51D9C40C-107A-484F-BEFA-A1879A29A271}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51D9C40C-107A-484F-BEFA-A1879A29A271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D82D0F-E19A-4421-8475-36B41C2BBC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D82D0F-E19A-4421-8475-36B41C2BBC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D82D0F-E19A-4421-8475-36B41C2BBC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D82D0F-E19A-4421-8475-36B41C2BBC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7EEB480-3673-4E58-B8C8-6506DA09B734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EEB480-3673-4E58-B8C8-6506DA09B734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EEB480-3673-4E58-B8C8-6506DA09B734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EEB480-3673-4E58-B8C8-6506DA09B734}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -149,6 +161,8 @@ Global
 		{2446EB36-2815-4F12-BC94-C592D85B384D} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
 		{4A7E7619-2DA2-485A-A783-BC089A10A60E} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
 		{51D9C40C-107A-484F-BEFA-A1879A29A271} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
+		{01D82D0F-E19A-4421-8475-36B41C2BBC5F} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
+		{B7EEB480-3673-4E58-B8C8-6506DA09B734} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9CFFCD40-D1DD-4C76-B841-DE78D05A526D}
