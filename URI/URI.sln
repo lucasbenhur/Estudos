@@ -47,9 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1019 - Conversao de Tempo",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1020 - Idade em Dias", "1020 - Idade em Dias\1020 - Idade em Dias.csproj", "{B7EEB480-3673-4E58-B8C8-6506DA09B734}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1021 - Notas e Moedas", "1021 - Notas e Moedas\1021 - Notas e Moedas.csproj", "{CEA58390-DC29-4E5B-8A6A-205E3DD79CF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1021 - Notas e Moedas", "1021 - Notas e Moedas\1021 - Notas e Moedas.csproj", "{CEA58390-DC29-4E5B-8A6A-205E3DD79CF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1035 - Teste de selecao 1", "1035 - Teste de selecao 1\1035 - Teste de selecao 1.csproj", "{722779FA-0BB0-48AB-921C-ED7498BD1928}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1035 - Teste de selecao 1", "1035 - Teste de selecao 1\1035 - Teste de selecao 1.csproj", "{722779FA-0BB0-48AB-921C-ED7498BD1928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1036 - Fórmula de bhaskara", "1036 - Fórmula de bhaskara\1036 - Fórmula de bhaskara.csproj", "{55A4CD1A-5BC1-4ED9-B9A7-C3715A23D8DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -149,6 +151,10 @@ Global
 		{722779FA-0BB0-48AB-921C-ED7498BD1928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{722779FA-0BB0-48AB-921C-ED7498BD1928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{722779FA-0BB0-48AB-921C-ED7498BD1928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A4CD1A-5BC1-4ED9-B9A7-C3715A23D8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A4CD1A-5BC1-4ED9-B9A7-C3715A23D8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A4CD1A-5BC1-4ED9-B9A7-C3715A23D8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A4CD1A-5BC1-4ED9-B9A7-C3715A23D8DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -177,6 +183,7 @@ Global
 		{B7EEB480-3673-4E58-B8C8-6506DA09B734} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
 		{CEA58390-DC29-4E5B-8A6A-205E3DD79CF9} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
 		{722779FA-0BB0-48AB-921C-ED7498BD1928} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
+		{55A4CD1A-5BC1-4ED9-B9A7-C3715A23D8DC} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9CFFCD40-D1DD-4C76-B841-DE78D05A526D}
