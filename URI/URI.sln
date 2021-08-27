@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1035 - Teste de selecao 1",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1036 - Fórmula de bhaskara", "1036 - Fórmula de bhaskara\1036 - Fórmula de bhaskara.csproj", "{55A4CD1A-5BC1-4ED9-B9A7-C3715A23D8DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1037 - Intervalo", "1037 - Intervalo\1037 - Intervalo.csproj", "{A97AF588-C855-41A5-A99C-BF9D75035003}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1037 - Intervalo", "1037 - Intervalo\1037 - Intervalo.csproj", "{A97AF588-C855-41A5-A99C-BF9D75035003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1038 - Lanche", "1038 - Lanche\1038 - Lanche.csproj", "{E607D202-2094-49DF-BB26-4F2140C5181B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,6 +163,10 @@ Global
 		{A97AF588-C855-41A5-A99C-BF9D75035003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A97AF588-C855-41A5-A99C-BF9D75035003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A97AF588-C855-41A5-A99C-BF9D75035003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E607D202-2094-49DF-BB26-4F2140C5181B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E607D202-2094-49DF-BB26-4F2140C5181B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E607D202-2094-49DF-BB26-4F2140C5181B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E607D202-2094-49DF-BB26-4F2140C5181B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -191,6 +197,7 @@ Global
 		{722779FA-0BB0-48AB-921C-ED7498BD1928} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
 		{55A4CD1A-5BC1-4ED9-B9A7-C3715A23D8DC} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
 		{A97AF588-C855-41A5-A99C-BF9D75035003} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
+		{E607D202-2094-49DF-BB26-4F2140C5181B} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9CFFCD40-D1DD-4C76-B841-DE78D05A526D}
