@@ -69,9 +69,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1044 - Multiplos", "1044 - 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1045 - Tipos de Triângulos", "1045 - Tipos de Triângulos\1045 - Tipos de Triângulos.csproj", "{E15E10E1-BD35-4286-A5D9-AA9C00DF6F56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1046 - Tempo de Jogo", "1046 - Tempo de Jogo\1046 - Tempo de Jogo.csproj", "{8C8A9CAC-EBA5-4D5E-A5B6-D4BA759AC11F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1046 - Tempo de Jogo", "1046 - Tempo de Jogo\1046 - Tempo de Jogo.csproj", "{8C8A9CAC-EBA5-4D5E-A5B6-D4BA759AC11F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1047 - Tem de Jogo com Minutos", "1047 - Tem de Jogo com Minutos\1047 - Tem de Jogo com Minutos.csproj", "{713D8653-E2A5-470C-9645-43AB70DDFD36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1047 - Tem de Jogo com Minutos", "1047 - Tem de Jogo com Minutos\1047 - Tem de Jogo com Minutos.csproj", "{713D8653-E2A5-470C-9645-43AB70DDFD36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1048 - Aumento de Salário", "1048 - Aumento de Salário\1048 - Aumento de Salário.csproj", "{38BED3F8-2D7B-47C1-A6D2-7BB4D32A1D4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -215,6 +217,10 @@ Global
 		{713D8653-E2A5-470C-9645-43AB70DDFD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{713D8653-E2A5-470C-9645-43AB70DDFD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{713D8653-E2A5-470C-9645-43AB70DDFD36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38BED3F8-2D7B-47C1-A6D2-7BB4D32A1D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BED3F8-2D7B-47C1-A6D2-7BB4D32A1D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BED3F8-2D7B-47C1-A6D2-7BB4D32A1D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BED3F8-2D7B-47C1-A6D2-7BB4D32A1D4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -254,6 +260,7 @@ Global
 		{E15E10E1-BD35-4286-A5D9-AA9C00DF6F56} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
 		{8C8A9CAC-EBA5-4D5E-A5B6-D4BA759AC11F} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
 		{713D8653-E2A5-470C-9645-43AB70DDFD36} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
+		{38BED3F8-2D7B-47C1-A6D2-7BB4D32A1D4D} = {D01E29BC-9E0C-4735-814A-9FC920D67621}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9CFFCD40-D1DD-4C76-B841-DE78D05A526D}
